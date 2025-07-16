@@ -20,5 +20,11 @@ const Header: React.FC = () => {
     </header>
   );
 };
+import React from "react";
 
+function Header() {
+  return <div>Header</div>;
+}
+
+export default Header;
 export default Header;
